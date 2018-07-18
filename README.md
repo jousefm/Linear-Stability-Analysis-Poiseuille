@@ -15,3 +15,6 @@ Repository for Projects submitted in the course "Numerical Fluid Mechanics II" i
 E-mail contact: jousef.m@googlemail.com
 For positive as well as negative feedback feel free to contact me.
  
+I know that I did not use functions for efficiency improvements...
+
+![alt text](https://i.pinimg.com/originals/a9/e8/58/a9e85811c758f9498c45ad0614157a53.jpg)
