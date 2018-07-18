@@ -17,4 +17,4 @@ For positive as well as negative feedback feel free to contact me.
  
 I know that I did not use functions for efficiency improvements...
 
-![alt text](https://i.pinimg.com/originals/a9/e8/58/a9e85811c758f9498c45ad0614157a53.jpg)
+![alt text](https://i.imgflip.com/2e8i8z.jpg)
