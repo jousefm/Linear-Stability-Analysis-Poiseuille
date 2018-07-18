@@ -8,7 +8,7 @@ Repository for Projects submitted in the course "Numerical Fluid Mechanics II" i
 
 ## Content 
 
-* "Report PDF"
+* Small thesis about the theory and the schemes used
 
 * MATLAB code for the "Plane Poiseuille Flow" problem
 
@@ -16,6 +16,6 @@ E-mail contact: jousef.m@googlemail.com
 
 For positive as well as negative feedback feel free to contact me.
  
-I know that I did not use functions for efficiency improvements...
+I know that I did not use functions for efficiency improvements ;-)
 
 ![alt text](https://i.imgflip.com/2e8i8z.jpg)
